@@ -2,7 +2,6 @@
 
 #### React Course
 
-
 [My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 #### Support
@@ -29,12 +28,12 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 3. Reviews -----[DONE]
 4. Questions -----[DONE]
 5. Menu -----[DONE]
-6. Tabs
+6. Tabs -----[DONE]
 7. Slider
 
 #### Forms
 
-8. Lorem Ipsum Generator
+8. Lorem Ipsum Generator -----
 9. Color Shades Generator
 10. Grocery Bud
 
