@@ -33,8 +33,8 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 #### Forms
 
-8. Lorem Ipsum Generator -----
-9. Color Shades Generator
+8. Lorem Ipsum Generator -----[DONE]
+9. Color Shades Generator ------[DONE]
 10. Grocery Bud
 
 #### useRef
